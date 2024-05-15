@@ -4,6 +4,7 @@ Introduction
 This project utilizes transfer learning, a powerful technique where a model trained on a large dataset (ImageNet in this case) is adapted to a specific task with a smaller dataset (Oxford Flowers-102). We fine-tune the ResNet50 model by adjusting its final layers to learn features specific to flower classification.
 
 # Dataset
+https://www.robots.ox.ac.uk/~vgg/data/flowers/102/
 The Oxford Flowers-102 dataset is a challenging benchmark dataset for fine-grained visual categorization. It consists of:
 
 102 Categories: Images of 102 different flower species.
